@@ -17,7 +17,7 @@ public class EBizDemoApplication {
     @RequestMapping("/")
     @ResponseBody
     public String hello(){
-        return "hello world 테스트입니다.";
+        return "hello world... 테스트입니다.";
     }	
 
 }
